@@ -1,3 +1,4 @@
 print("Hello, world!!") #2-2번의 가정
 #202004373, 컴퓨터 전자시스템 공학과 이예찬
 #2-1번 코드를 수정 후 중복으로 Pull Request를 했을경우의 결과
+#2-3번 나의 repository에서 수정을 한 후 상대도 수정한 상황에서의 Pull Request의 결과
